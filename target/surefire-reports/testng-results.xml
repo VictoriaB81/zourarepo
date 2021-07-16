@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="189" started-at="2021-07-16T11:57:23 IST" finished-at="2021-07-16T11:57:23 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="189" started-at="2021-07-16T11:57:23 IST" finished-at="2021-07-16T11:57:23 IST">
+      <class name="qaclickacademy1.MavenJava1.AppiumTest">
+        <test-method status="PASS" signature="IOSapp()[pri:0, instance:qaclickacademy1.MavenJava1.AppiumTest@59ec2012]" name="IOSapp" duration-ms="11" started-at="2021-07-16T11:57:23 IST" finished-at="2021-07-16T11:57:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSapp -->
+        <test-method status="PASS" signature="nativeApp()[pri:0, instance:qaclickacademy1.MavenJava1.AppiumTest@59ec2012]" name="nativeApp" duration-ms="1" started-at="2021-07-16T11:57:23 IST" finished-at="2021-07-16T11:57:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeApp -->
+      </class> <!-- qaclickacademy1.MavenJava1.AppiumTest -->
+      <class name="qaclickacademy1.MavenJava1.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:qaclickacademy1.MavenJava1.SeleniumTest@56ac3a89]" name="browserAutomation" duration-ms="0" started-at="2021-07-16T11:57:23 IST" finished-at="2021-07-16T11:57:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elements()[pri:0, instance:qaclickacademy1.MavenJava1.SeleniumTest@56ac3a89]" name="elements" duration-ms="0" started-at="2021-07-16T11:57:23 IST" finished-at="2021-07-16T11:57:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elements -->
+      </class> <!-- qaclickacademy1.MavenJava1.SeleniumTest -->
+      <class name="qaclickacademy1.MavenJava1.RESTAPITest">
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qaclickacademy1.MavenJava1.RESTAPITest@1e397ed7]" name="postJira" duration-ms="0" started-at="2021-07-16T11:57:23 IST" finished-at="2021-07-16T11:57:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+        <test-method status="PASS" signature="twitterdelete()[pri:0, instance:qaclickacademy1.MavenJava1.RESTAPITest@1e397ed7]" name="twitterdelete" duration-ms="0" started-at="2021-07-16T11:57:23 IST" finished-at="2021-07-16T11:57:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitterdelete -->
+      </class> <!-- qaclickacademy1.MavenJava1.RESTAPITest -->
+      <class name="qaclickacademy1.MavenJava1.sampleTest">
+        <test-method status="PASS" signature="sample1()[pri:0, instance:qaclickacademy1.MavenJava1.sampleTest@490ab905]" name="sample1" duration-ms="1" started-at="2021-07-16T11:57:23 IST" finished-at="2021-07-16T11:57:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1 -->
+      </class> <!-- qaclickacademy1.MavenJava1.sampleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
